@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey! I'm Pedro Farias 👋
 
-<!--
-**pedrosfarias01/pedrosfarias01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile :)
+I'm Pedro, a Data Scientist currently living in Salvador, Brazil.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... [DataFoot](https://www.datafoot.org/)
+- 🌱 I’m currently learning ... Django Framework (Python)
+- 💬 Ask me about ... Sports Betting Models
+- 🤝 Connect with me on LinkedIn ...[ [LinkedIn Link] ](https://www.linkedin.com/in/pedrosfarias/)
+- 🎈 In my free time, I like to ... Play squash and watch football
+- ⚡ Fun fact ... I ventured into the world of data through sports betting
+- 🔭 Portfolio of Dashboards and Projects... [[Portfolio]](https://pedrosfarias.myportfolio.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to look around and contact me if you have questions.
+
+
+## 👨‍💻 Data Projects I've Made:
+- Model to Predict Betting Odds Fluctuation
+In this project, I talk about my journey developing a predictive model for betting odds fluctuations.
+
+
+## 📫 How to reach me: ... pedrosfarias@gmail.com
