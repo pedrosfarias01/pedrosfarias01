@@ -11,7 +11,7 @@ I'm Pedro, a Data Scientist with a strong business background
 - 💬 Ask me about ... Sports Betting Models
 - 🤝 Connect with me on LinkedIn ...[ [LinkedIn Link] ](https://www.linkedin.com/in/pedrosfarias/)
 - 🎈 In my free time, I like to ... Play squash and watch football
-- 🔭 Portfolio of Dashboards and Data Projects... [[Portfolio]](https://pedrosfarias.myportfolio.com/)
+- 🔭 Portfolio of Dashboards and Data Projects... [[Portfolio]](https://pedrofariasportfolio.carrd.co/)
 
 Feel free to look around and contact me if you have questions.
 
