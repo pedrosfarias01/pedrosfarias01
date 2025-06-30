@@ -17,7 +17,7 @@ Feel free to look around and contact me if you have questions.
 
 ## 👨‍💻 Data Projects I've Made:
 
-**[Prophet Currency Trend Prediction](https://github.com/pedrosfarias01/Data-Science-Projects/tree/main/1-ProphetCurrencyTrend)** | <a href="https://prophetcurrencytrend.streamlit.app/" style="color:red;">Live Demo</a>
+**[Prophet Currency Trend Prediction](https://github.com/pedrosfarias01/Data-Science-Projects/tree/main/1-ProphetCurrencyTrend)** | 🚨 **[LIVE DEMO](https://prophetcurrencytrend.streamlit.app/)** 🚨
 This app is a valuable tool for making informed decisions about currency exchange, whether for travel, investment, or business purposes. By leveraging advanced time series forecasting with the Prophet library and offering a user-friendly interface via Streamlit, the app enables users to analyze historical trends and predict future exchange rates, helping them choose the best time to buy or sell currency.
 
 **[Student Academic Performance: Analysis & Modeling](https://github.com/pedrosfarias01/Data-Science-Projects/tree/main/2-Modelling_SchoolScores_EDA_ML_RStudio)**
