@@ -6,7 +6,7 @@ I'm Pedro, a Data Scientist with a strong business background
 📫 How to reach me: ... pedrosfarias@gmail.com
 
 - 📍 London, UK.
-- 🔭 I'm currently working on ... [[DataFoot.org]](https://www.datafoot.org/)
+- 🔭 I'm currently working on ... AI agent for personal expenses
 - 🌱 I'm currently learning ... Django Framework (Python)
 - 💬 Ask me about ... Sports Betting Models
 - 🤝 Connect with me on LinkedIn ...[ [LinkedIn Link] ](https://www.linkedin.com/in/pedrosfarias/)
